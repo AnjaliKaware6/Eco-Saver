@@ -13,7 +13,7 @@
     margin: 0px auto;
     width: 400px;
     margin-top: 100px;
-    border-top: 5px solid #fed700;
+    border-top: 5px solid #f28583;
 
 }
 .main_container_signup .header
@@ -72,7 +72,7 @@
     padding: 10px 30px;
     border: none;
     outline: none;
-    background: #fed700;
+    background: #f28583;
     border-radius: 5px;
     color: #232323;
     font-weight: 600;
