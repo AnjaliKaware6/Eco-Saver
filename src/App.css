@@ -3,7 +3,7 @@
 }
 .input-group-text {
   background-color: #1874d1;
-  color: #fff;
+  color: #9fb164;
   font-weight: bold;
 }
 .edit,
@@ -38,7 +38,7 @@ table {
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #9fb164;
 }
 
 .App-link {
