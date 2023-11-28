@@ -8,12 +8,12 @@
 }
 .main_container_signup
 {
-    background: #f6f6f6;
+    background: #848c54;
     padding: 20px 30px;
     margin: 0px auto;
     width: 400px;
     margin-top: 100px;
-    border-top: 5px solid #fed700;
+    border-top: 5px solid #ff686b;
 }
 .main_container_signup .header
 {
@@ -60,7 +60,7 @@
     padding: 10px 30px;
     border: none;
     outline: none;
-    background: #fed700;
+    background: #ff686b;
     border-radius: 5px;
     color: #232323;
     font-weight: 600;
